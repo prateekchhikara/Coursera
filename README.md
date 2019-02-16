@@ -1,2 +1,2 @@
 # Coursera
-Andrew Ng Machine Learning Coursera Course Assignmnet Solutions
+Andrew Ng Machine Learning Coursera Course Assignment Solutions.
